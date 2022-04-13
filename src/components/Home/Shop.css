@@ -1,0 +1,17 @@
+.col-shop.col-sm-8 {
+ border-right: 1px solid lightgray;
+ margin-right: 0;
+ padding-right: 0;
+}
+.item-wrapper {
+ display: flex;
+ border-bottom: 1px solid lightgray;
+ padding: 15px 0;
+}
+.image {
+ width: 200px;
+}
+.image img {
+ width: 100%;
+ border-radius: 5px;
+}
